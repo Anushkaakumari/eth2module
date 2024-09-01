@@ -1,0 +1,40 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "C:\\Users\\hcbhu\\Desktop\\ETH_AVAX_INTER_MOD_2-main\\contracts\\RentalToken.sol": {
+      "lastModificationDate": 1720359290649,
+      "contentHash": "7e2311e7e8c242feb662eff353ddaeaf",
+      "sourceName": "contracts/RentalToken.sol",
+      "solcConfig": {
+        "version": "0.8.17",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.9"
+      ],
+      "artifacts": [
+        "RentalToken"
+      ]
+    }
+  }
+}
